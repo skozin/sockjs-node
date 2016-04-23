@@ -101,7 +101,7 @@ class WebSocketReceiver extends transport.GenericReceiver
             super
 
     heartbeat_timeout: ->
-        @session.close(3000, 'No response from heartbeat')
+        @session?.close(3000, 'No response from heartbeat')
 
 
 

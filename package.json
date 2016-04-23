@@ -1,5 +1,5 @@
 {
-  "name": "sockjs",
+  "name": "@ficus/sockjs",
   "description": "SockJS-node is a server counterpart of SockJS-client a JavaScript library that provides a WebSocket-like object in the browser. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.",
   "version": "0.3.16",
   "author": "Marek Majkowski",
